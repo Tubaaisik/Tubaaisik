@@ -3,3 +3,8 @@
  <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/C5603AQGy6QgLhIefYw/profile-displayphoto-shrink_800_800/0/1591106348748?e=2147483647&v=beta&t=IY3GLJ1PUDnMwrkvUcWL7GsRp-5DAjWwqZk0i-KFzn0">
  <img alt="YOUR-ALT-TEXT" src="https://media.licdn.com/dms/image/C5603AQGy6QgLhIefYw/profile-displayphoto-shrink_800_800/0/1591106348748?e=2147483647&v=beta&t=IY3GLJ1PUDnMwrkvUcWL7GsRp-5DAjWwqZk0i-KFzn0">
 </picture>
+
+
+## Hi There 
+
+My name is Tugba.This is my profile and I am currently working in data science.
